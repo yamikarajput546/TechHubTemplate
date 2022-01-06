@@ -26,9 +26,13 @@ jobs:
         java-version: '11'
         distribution: 'adopt'
         cache: maven
-    - name: Build with Maven
-      run: mvn test 
-    - name: Build with Maven
+    - name: Clean with Maven
+      run: mvn test  --file Java/TJava/pom.xml
+    - name: Compile with Maven
+      run: mvn test  --file Java/TJava/pom.xml
+    - name: Test with Maven
+      run: mvn test  --file Java/TJava/pom.xml
+    - name: Package with Maven
       run: mvn package --file Java/TJava/pom.xml
 
     
