@@ -1,6 +1,3 @@
-[submodule "TJava"]
-	path = TJava
-	url = https://github.com/yamikarajput546/TJava.git
 [submodule "Java/TJava"]
 	path = Java/TJava
 	url = https://github.com/yamikarajput546/TJava.git
