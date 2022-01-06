@@ -24,3 +24,5 @@ jobs:
         distribution: 'adopt'
     - name: Run tests
       run: sbt test
+    - name: Package
+      run: sbt package
