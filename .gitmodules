@@ -7,3 +7,6 @@
 [submodule "Python/--name"]
 	path = Python/--name
 	url = https://github.com/yamikarajput546/TPython.git
+[submodule "Java/Java-Helloworld"]
+	path = Java/Java-Helloworld
+	url = https://github.com/yamikarajput546/Java-Helloworld.git
