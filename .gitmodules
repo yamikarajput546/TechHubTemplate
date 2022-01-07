@@ -1,6 +1,3 @@
-[submodule "Java/TJava"]
-	path = Java/TJava
-	url = https://github.com/yamikarajput546/TJava.git
 [submodule "Scala/TScala"]
 	path = Scala/TScala
 	url = https://github.com/yamikarajput546/TScala.git
